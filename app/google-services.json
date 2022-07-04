@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "29795653706",
+    "firebase_url": "https://brightspot-132fc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "brightspot-132fc",
+    "storage_bucket": "brightspot-132fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29795653706:android:8573f06dd7113a49faaeb3",
+        "android_client_info": {
+          "package_name": "com.example.brightspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29795653706-21ke1q3lircteu7h356jf29i083m76lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbdW6RFNxxWdmfm5QU1ImO8xYyyIYDRlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29795653706-21ke1q3lircteu7h356jf29i083m76lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
